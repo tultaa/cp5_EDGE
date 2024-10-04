@@ -1,6 +1,9 @@
-# cp5_EDGE
-
-# ESP32 MQTT Project
+## Integrantes
+- Arthur Fellipe Estevão da Silva RM553320
+- Eduardo Pires Escudero RM556527
+- Leonardo Munhoz Prado RM556824
+- 
+# ESP32 MQTT Project - CP5
 
 ## Descrição do Projeto
 Este projeto utiliza um microcontrolador ESP32 para monitorar e controlar dispositivos através de um broker MQTT. O ESP32 lê dados de um sensor de temperatura e umidade DHT22, além de um sensor de luminosidade, e publica essas informações em tópicos MQTT. Ele também pode receber comandos para ligar e desligar um LED.
