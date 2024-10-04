@@ -3,6 +3,8 @@
 - Eduardo Pires Escudero RM556527
 - Leonardo Munhoz Prado RM556824
 
+Simulação WOKWI: https://wokwi.com/projects/410385817636974593
+
 # ESP32 MQTT Project - CP5
 
 ## Descrição do Projeto
